@@ -1,0 +1,13 @@
+step 1: Create the UI
+step 2: Controller Data Structure
+step 3: Populate Items
+step 4: Add items to data structure
+step 5: Add Items to the UI
+step 6: Add Total calories
+step 7: Working with the edit state
+step 8: Updating item
+step 9: Delete clear items
+step 10: Add and get from local storage
+step 11: delete or clear from local storage
+
+
